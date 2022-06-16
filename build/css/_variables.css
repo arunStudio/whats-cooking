@@ -1,0 +1,64 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 16 Jun 2022 07:39:38 GMT
+ */
+
+:root {
+  --sd-global-base-background: #5551ff;
+  --sd-global-base-foregraound: #f5f5f5;
+  --sd-global-base-black: #000000;
+  --sd-global-base-white: #ffffff;
+  --sd-global-primary-50: #fed9ed;
+  --sd-global-primary-100: #ff70bf;
+  --sd-global-primary-200: #d91681;
+  --sd-global-primary-500: #980054;
+  --sd-global-primary-link-color: #d91681;
+  --sd-global-primary-base: [object Object];
+  --sd-global-primary-display: [object Object];
+  --sd-global-primary-h1: [object Object];
+  --sd-global-primary-h2: [object Object];
+  --sd-global-primary-h3: [object Object];
+  --sd-global-primary-h4: [object Object];
+  --sd-global-primary-h5: [object Object];
+  --sd-global-primary-h6: [object Object];
+  --sd-global-primary-paragraph: [object Object];
+  --sd-global-primary-small-text: [object Object];
+  --sd-global-secondary-50: #fff7da;
+  --sd-global-secondary-100: #fddd6b;
+  --sd-global-secondary-200: #f3c212;
+  --sd-global-secondary-500: #daaa00;
+  --sd-global-blue-50: #92c4ff;
+  --sd-global-blue-100: #3892ff;
+  --sd-global-blue-200: #1765c4;
+  --sd-global-blue-500: #023d84;
+  --sd-global-red-50: #ff9398;
+  --sd-global-red-100: #ff3741;
+  --sd-global-red-200: #d0151e;
+  --sd-global-red-500: #800006;
+  --sd-global-grey-50: #fafafa;
+  --sd-global-grey-100: #f5f5f5;
+  --sd-global-grey-200: #eaeaea;
+  --sd-global-grey-300: #e1e1e1;
+  --sd-global-grey-400: #cacaca;
+  --sd-global-grey-500: #b3b3b3;
+  --sd-global-grey-600: #8e8e8e;
+  --sd-global-grey-700: #6e6e6e;
+  --sd-global-grey-800: #4b4b4b;
+  --sd-global-grey-900: #2c2c2c;
+  --sd-global-font-families-open-sans: Open Sans;
+  --sd-global-line-heights-0: AUTO;
+  --sd-global-font-weights-open-sans-0: SemiBold;
+  --sd-global-font-weights-open-sans-1: Regular;
+  --sd-global-font-size-0: 12;
+  --sd-global-font-size-1: 14;
+  --sd-global-font-size-2: 16;
+  --sd-global-font-size-3: 20;
+  --sd-global-font-size-4: 24;
+  --sd-global-font-size-5: 32;
+  --sd-global-font-size-6: 48;
+  --sd-global-font-size-7: 72;
+  --sd-global-letter-spacing-0: 0%;
+  --sd-global-paragraph-spacing-0: 0;
+  --sd-global-text-case-none: none;
+  --sd-global-text-decoration-none: none;
+}
