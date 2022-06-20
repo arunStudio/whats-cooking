@@ -16,6 +16,13 @@ body {
     border-color: var(--sd-global-primary-500);
 }
 
+.px-4 {
+    padding-left: var(--sd-global-primary-btn-sides) !important;
+    padding-right: var(--sd-global-primary-btn-sides) !important;
+    padding-top: var(--sd-global-spacing-base);
+    padding-bottom: var(--sd-global-spacing-base);
+}
+
 .btn {
-    border-radius: var(--sd-global-radius-default);
+    border-radius: var(--sd-global-radius-primary-button);
 }
