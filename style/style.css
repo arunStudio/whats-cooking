@@ -14,5 +14,8 @@ body {
 .btn-primary {
     background-color: var(--sd-global-primary-500);
     border-color: var(--sd-global-primary-500);
+}
+
+.btn {
     border-radius: var(--sd-global-default);
 }
