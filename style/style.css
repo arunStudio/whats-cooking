@@ -17,5 +17,5 @@ body {
 }
 
 .btn {
-    border-radius: var(--sd-global-default);
+    border-radius: var(--sd-global-radius-default);
 }
