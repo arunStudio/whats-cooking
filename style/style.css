@@ -1,0 +1,11 @@
+/* Base styles */
+html,
+body {
+  height: 100%;
+  font-family: var(--sd-global-font-families-open-sans);
+  font-size: 14px;
+}
+
+body {
+  background-color: var(--sd-global-greyscale-100);
+}

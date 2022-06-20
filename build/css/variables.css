@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 16 Jun 2022 07:40:45 GMT
+ * Generated on Thu, 16 Jun 2022 07:52:28 GMT
  */
 
 :root {
@@ -46,6 +46,8 @@
   --sd-global-grey-800: #4b4b4b;
   --sd-global-grey-900: #2c2c2c;
   --sd-global-font-families-open-sans: Open Sans;
+  --sd-global-font-families-inter: Inter;
+  --sd-global-font-families-roboto-slab: Roboto Slab;
   --sd-global-line-heights-0: AUTO;
   --sd-global-font-weights-open-sans-0: SemiBold;
   --sd-global-font-weights-open-sans-1: Regular;
