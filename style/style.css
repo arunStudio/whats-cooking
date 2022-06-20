@@ -9,3 +9,9 @@ body {
 body {
   background-color: var(--sd-global-greyscale-100);
 }
+
+/* Button style */
+.btn-primary {
+    background-color: var(--sd-global-primary-500);
+    border-color: var(--sd-global-primary-500);
+}
