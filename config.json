@@ -2,12 +2,12 @@
     "source": ["tokens/**/*.json"],
     "platforms": {
       "scss": {
-        "transformGroup": "scss",
+        "transformGroup": "css",
         "prefix": "sd",
-        "buildPath": "build/scss/",
+        "buildPath": "build/css/",
         "files": [{
-          "destination": "variables.scss",
-          "format": "scss/variables"
+          "destination": "variables.css",
+          "format": "css/variables"
         }]
       },
       "android": {
