@@ -29,7 +29,7 @@ body {
 }
 
 .btn {
-    border-radius: var(--sd-global-radius-default);
+    border-radius: var(--sd-global-default-radius);
 }
 
 .btn-outline-primary {
