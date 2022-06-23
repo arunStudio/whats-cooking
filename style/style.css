@@ -16,6 +16,11 @@ body {
     border-color: var(--sd-global-primary-500);
 }
 
+.btn-primary:hover {
+    background-color: var(--sd-global-primary-200);
+    border-color: var(--sd-global-primary-200);
+}
+
 .px-4 {
     padding-left: var(--sd-global-primary-btn-sides) !important;
     padding-right: var(--sd-global-primary-btn-sides) !important;
@@ -25,4 +30,9 @@ body {
 
 .btn {
     border-radius: var(--sd-global-radius-default);
+}
+
+.btn-outline-primary {
+    color: var(--sd-global-primary-500);
+    border-color: var(--sd-global-primary-500);
 }
