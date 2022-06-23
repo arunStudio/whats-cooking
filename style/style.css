@@ -2,7 +2,7 @@
 html,
 body {
   height: 100%;
-  font-family: var(--sd-global-font-families-open-sans);
+  font-family: var(--sd-global-font-families-inter);
   font-size: 14px;
 }
 
